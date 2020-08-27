@@ -1,4 +1,4 @@
-# Proyecto-practico-pav2-Utn-cordoba
+# ProyectoPracticoPAV2
 este es el trabajo final de la, materia de programacion audiovisual 2 -paginas web en .net C#
 
 se utilizo las siguientes tecnologias:
