@@ -1,0 +1,68 @@
+﻿
+<!-- ng-controller="DepartamentoCtrl" -->
+
+
+    <section class="seccionCategoria" >
+
+        <div class=" container-fluid ">
+
+
+            <h4 class=" mb-3 mt-5">
+                {{Titulo2}}
+            </h4>
+
+
+
+            <div>
+                <table class="table table-striped table-bordered table-responsive-md">
+
+                    <thead>
+                        <tr>
+                            <th class="text-center bg-info text-white">Id</th>
+                            <th class="text-center bg-info text-white">Nombre Departamento</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+                        <tr ng-repeat="dto in Lista">
+                            <!--<th scope="row">1</th>-->
+                            <td>{{dto.id_dpto}}</td>
+                            <td>{{dto.nombre_dpto | uppercase}}</td>
+
+                        </tr>
+
+                    </tbody>
+
+
+                </table>
+
+                <!--ng-click="Volver()"-->
+                <div class="row d-flex  justify-content-center" ng-click="Volver()">
+                    <a href="../front-end/index.html" class="btn btn-warning icon-back">
+                        <span class="m-2">Volver</span>
+                    </a>
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

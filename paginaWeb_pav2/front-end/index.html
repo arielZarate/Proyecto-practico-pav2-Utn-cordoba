@@ -1,0 +1,178 @@
+﻿<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+    <meta charset="utf-8">
+ 
+    <title>Inicio RRHH Integral</title>
+
+
+    <!-- este es el orden adecuado -->
+    <!-- fuente y mis estilos  -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="../Font/styles.css" rel="stylesheet" />
+    <link href="../css/misestilos.css" rel="stylesheet" />
+
+
+
+
+
+    <!-- Angular -->
+
+    <script src="../Js/angular.js"></script>
+    <script src="../Js/angular-route.js"></script>
+    <script src="../Js/ui-bootstrap-tpls-3.0.6.js"></script>
+    <script src="../Js/app.js"></script>
+
+
+</head>
+
+  
+<body ng-app="myApp"  >
+
+    <div class=" container-fluid ">
+
+
+        <!-- ng-controller="InicioCtrl" -->
+        <!--navbar expand light leda un color gris que destaca lazona de la barra-->
+        <nav class=" navbar navbar-expand-md navbar-dark bg-dark fixed-top ">
+
+            <!--la etiqueta a sirve para crear un link y ademas tiene la clase brand-->
+            <!--<a href="_inicio.html">_inicio.html</a>-->
+            <a href="#!inicio" class="navbar-brand">
+                <img src="../img/logo.png" alt="logo" style="width:12% " />
+                <span class="h6" style="font-weight:500">RRHH Integral</span>
+
+            </a>
+
+            <!--H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2
+
+            <!-- agregamos un boton tipo haburguesa -->
+            <!-- fijate que agrgue las clases navbar-toggler - data-toggle y un  data-target -->
+            <button type="button" name="button" class="navbar-toggler" data-toggle="collapse" data-target="#primeraNavegacion">
+                <!-- agregamos un icono -->
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- si queremos tener un colapse:desplega hacia abajo lo metemos en un div -->
+            <div class="collapse navbar-collapse" id="primeraNavegacion">
+
+                <!-- tiene un collapse en la lista y un margen left automatico -->
+                <ul class="navbar-nav  ml-auto">
+
+                    <!--H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2-->
+
+                    <li class="nav-item"> <a class="nav-link" href="#!empleado">Personal</a> </li>
+                    <li class="nav-item"> <a class="nav-link" href="#!departamentos">Categoria</a> </li>
+
+                    <!-- ahora agregamos un boton con menu  -->
+                    <!--<li class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                        Informes
+                    </a>-->
+                    <!-- ahora introducimos los items del dropdown -->
+                    <!--<div class="dropdown-menu">
+                        <a href="#" class="dropdown-item">link1</a>
+                        <a href="#" class="dropdown-item">link2</a>
+                        <a href="#" class="dropdown-item">link3</a>
+                        <a href="#" class="dropdown-item">link4</a>
+
+                    </div>-->
+                    <!--</li>-->
+
+                    <li class="nav-item"> <a class="nav-link" href="#!acerca_de">Acerca de</a> </li>
+                    <li class="nav-item"> <a class="nav-link" href="#!contacto">Contacto</a> </li>
+
+                </ul>
+
+
+
+
+                <!-- Este form es el input y botom de busqueda -->
+                <!-- ahora agregamos un form los atributos action y method no los nececitamos ya que no tenemos un server que acepte estos datos -->
+                <!-- action="index.html" method="post -->
+                <!-- agregamos la clase inline -->
+
+                <form class="form-inline">
+
+                    <!-- agregamos la clase form-control value=search -->
+                    <input type="text" class="form-control" placeholder="Search">
+                    <button type="button" class="btn btn-outline-success">
+                        Buscar
+                    </button>
+
+                </form>
+            </div>
+        </nav>
+
+        <!-- fin del navbar -->
+        <!--fin del div principal-->
+
+    </div>
+
+
+
+    <div ng-view>
+     </div>
+
+
+
+
+
+    <footer class="mi-footer ">
+
+        <div class="container-fluid text-white bg-dark justify-content-center">
+
+            <div class="row container-fluid">
+
+                <div class="col-md-1"></div>
+
+                <div class="col-md-3">
+                    <div class="justify-content-center align-self-center">
+                        <h6 class="">Sobre RRHH Integral</h6>
+                        <ul class="" style="list-style:none">
+                            <li>Empresa</li>
+                            <li>Condiciones</li>
+                            <li>Empleados</li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="col-md-3 justify-content-center align-content-center">
+                    <div>
+                        <h6 class="">Seguinos</h6>
+
+
+                        <span><img src="../img/facebook%20.ico" />  </span>
+                        <span class="ml-1 mr-1"><img src="../img/twiter.ico" />  </span>
+                        <span><img src="../img/instagram.ico" /></span>
+
+                    </div>
+                </div>
+
+                <div class="col-md-4 justify-content-center align-self-center">
+
+                    <p>t&eacute;rminos y condiciones | Contactanos | mapa del sitio </p>
+                </div>
+
+                <div class="col-md-1"></div>
+
+            </div>
+         </div>
+
+        <div class="mi-copi">
+            <h6 class="text-center">  Design and development by Ariel Zarate-copyright &copy; 2019</h6>
+        </div>
+    </footer>
+
+    <!-- scripts -->
+    <script src="../Js/jquery-3.3.1.js"></script>
+    <script src="../Js/popper.min.js"></script>
+    <script src="../bootstrap/js/bootstrap.js"></script>
+
+
+
+
+
+
+</body>
+</html>

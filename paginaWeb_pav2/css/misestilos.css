@@ -1,0 +1,92 @@
+﻿
+
+/*.navbar,.mi-footer {
+
+background:black;
+
+}*/
+
+
+
+
+
+.seccionInicio{
+    
+    margin-top:70px;
+    background:url("../img/mundo2.png");
+    background-size:cover;
+  
+    min-height:300px;
+}
+
+
+
+
+.seccionEmpleado,.seccionCategoria , .seccionAgregar ,.seccionModificar, .seccionConsultar  {
+
+    margin-top:130px;
+    margin-bottom:50px;
+}
+
+
+.Formulario{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+ .seccionAcerca , .seccionContacto{
+     
+    margin-top:50px;
+      
+ }
+
+.seccionContacto2{
+     
+   padding-bottom:20px;
+      
+ }
+
+
+.background-overlay{
+    /*background:rgb(12, 100, 109);*/
+}
+
+
+.mi-copi{
+    background:black;
+    color:white;
+}
+
+
+
+
+     
+  
+}
+
+.p53 {
+    color:#0d265a;
+    font-weight: 900;
+}
+
+
+
+/*contacto 62*/
+
+.seccionContacto{
+   background:url("../img/argentina.jpg");
+   background-size:cover;
+   min-width:80%;
+   min-height:30%;
+}
+
+
+.seccionContacto2{
+    background:url("../img/smartphones.png");
+    background-size:initial;
+
+    /*background-color:#ff6a00;*/
+
+}
+/*min-width:300px ,*/ 
+

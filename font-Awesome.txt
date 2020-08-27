@@ -1,0 +1,35 @@
+font Awesome
+
+iconos
+
+
+buscar
+<i class="fas fa-search"></i>
+
+
+new -agregar
+
+<i class="fas fa-plus-circle"></i>
+
+
+modify-edit
+
+<i class="fas fa-pen-square"></i>
+
+
+check -ok
+
+<i class="fas fa-check"></i>
+
+
+cancelado
+
+<i class="fas fa-window-close"></i>
+
+
+
+cdn
+
+css: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+html: <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">

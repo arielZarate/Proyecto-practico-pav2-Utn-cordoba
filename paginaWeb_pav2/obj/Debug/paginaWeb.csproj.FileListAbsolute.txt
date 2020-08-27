@@ -1,0 +1,6 @@
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll.config
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb.csprojResolveAssemblyReference.cache
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.pdb

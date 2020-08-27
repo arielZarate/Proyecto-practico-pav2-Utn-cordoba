@@ -1,0 +1,80 @@
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll.config
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.xml
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.xml
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.xml
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.xml
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.xml
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.dll
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.pdb
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\PymesAngular.csprojResolveAssemblyReference.cache
+H:\04-facultad\pav 2\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll.config
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.pdb
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.pdb
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.xml
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\PymesAngular.csprojResolveAssemblyReference.cache
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.dll
+H:\04-facultad\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\PymesAngular.csprojResolveAssemblyReference.cache
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll.config
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.pdb
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll.config
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\paginaWeb_pav2.pdb
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\Datos.pdb
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\EntityFramework.SqlServer.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\System.Net.Http.Formatting.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\System.Web.Http.WebHost.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\bin\Newtonsoft.Json.xml
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\PymesAngular.csprojResolveAssemblyReference.cache
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.dll
+H:\04-facultad\pav 2\Trabajo Practico\Trabajo Practico\paginaWeb_pav2\paginaWeb_pav2\paginaWeb_pav2\obj\Debug\paginaWeb_pav2.pdb
